@@ -1,4 +1,3 @@
-scp -r dist/ root@YOUR_SERVER_IP:/var/www/arunarchitect.in/
 
-
-scp -r dist/ root@173.212.238.69:/var/www/arunarchitect.in/
+ssh username@IPaddress "rm -rf /var/www/arunarchitect.in/*"
+scp -r dist/* username@IPaddress:/var/www/arunarchitect.in/
