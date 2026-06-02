@@ -32,7 +32,7 @@ const Footer = () => {
                 </a>
               </span> */}
               <span className="w-[35px] h-[35px] bg-black p-1 rounded-[50px] cursor-pointer text-center">
-                <a href="https://www.youtube.com/@arunravikumar97" target="_blank" className="text-gray-300 font-[500] text-[18px]">
+                <a href="https://www.youtube.com/@modelflick" target="_blank" className="text-gray-300 font-[500] text-[18px]">
                 <i className="ri-youtube-line"></i>
                 </a>
               </span>
@@ -42,7 +42,7 @@ const Footer = () => {
                 </a>
               </span>
               <span className="w-[35px] h-[35px] bg-black p-1 rounded-[50px] cursor-pointer text-center">
-                <a href="https://www.instagram.com/arun_ravikumar_997?igsh=Y3g2cnM3dWQ4NG1x"  target="_blank" className="text-gray-300 font-[500] text-[18px]">
+                <a href="https://www.instagram.com/arunarchitect.in/"  target="_blank" className="text-gray-300 font-[500] text-[18px]">
                 <i className="ri-instagram-line"></i>
                 </a>
               </span>

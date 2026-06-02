@@ -1,0 +1,4 @@
+scp -r dist/ root@YOUR_SERVER_IP:/var/www/arunarchitect.in/
+
+
+scp -r dist/ root@173.212.238.69:/var/www/arunarchitect.in/
